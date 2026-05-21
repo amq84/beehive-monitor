@@ -77,6 +77,8 @@
       false,
       false,
       false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -89,9 +91,24 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
-    "col_widths": [],
+    "col_widths": [
+      162,
+      147,
+      91,
+      102,
+      97,
+      107,
+      108,
+      107,
+      91,
+      91,
+      91,
+      990
+    ],
     "custom_group_rules": [],
     "expanded_rows": [],
     "filter_by_net_name": true,
@@ -102,8 +119,8 @@
     "show_time_domain_details": false,
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
-    "sort_ascending": true,
-    "sorting_column": -1
+    "sort_ascending": false,
+    "sorting_column": 1
   },
   "open_jobsets": [],
   "project": {
